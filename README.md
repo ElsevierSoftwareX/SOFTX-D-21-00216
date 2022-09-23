@@ -19,7 +19,7 @@ _Unity_, _IBM ILOG CPLEX Optimization Studio 20.10 in its academic version_, _Le
 
 ### Install executableCancel changes 
 
-Download the [Executable](https://github.com/jcpachon10/SICRepository/tree/main/SIC_Executable) folder where you going to find all the information, manual and run SIC.exe. Clicking on it will allow to use the software. It is necessary to install ['IBM ILOG CPLEX Optimization Studio 20.10 for Windows x86-64 '](https://www.ibm.com/support/pages/downloading-ibm-ilog-cplex-optimization-studio-2010) for irregular shape module. 
+Download the [Executable](https://github.com/jcpachon10/SICRepository/tree/main/SIC_Executable) folder where you going to find all the information, [manual](https://github.com/jcpachon10/SICRepository/blob/main/SIC_Executable/Manual%20English.pdf) and run SIC.exe. Clicking on it will allow to use the software. It is necessary to install ['IBM ILOG CPLEX Optimization Studio 20.10 for Windows x86-64 '](https://www.ibm.com/support/pages/downloading-ibm-ilog-cplex-optimization-studio-2010) for irregular shape module. 
 
   
 
