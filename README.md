@@ -33,6 +33,6 @@ Download the [SIC UnityProyect](https://github.com/jcpachon10/SICRepository/tree
 
 In the folder [Videos](https://github.com/jcpachon10/SICRepository/tree/main/Videos) you can find two tutorials for interacting with the software 
 
-- [Cube Packing](https://github.com/jcpachon10/SICRepository/blob/main/Videos/SICCubeCargo.mp4) 
+- [Cube Packing](https://github.com/jcpachon10/SICRepository/blob/main/Videos/SICCubeCargo.mp4)
 
-- [Irregular Paking](https://github.com/jcpachon10/SICRepository/blob/main/Videos/SICIrregularCargo.mp4) 
+- [Irregular Paking](https://github.com/jcpachon10/SICRepository/blob/main/Videos/SICIrregularCargo.mp4)
